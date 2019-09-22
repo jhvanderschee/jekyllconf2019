@@ -1,7 +1,7 @@
 ---
 layout: page
 forms:
-  - to: jhvanderschee@gmail.com
+  - to: joost@vdschee.nl
     subject: New submission!
     redirect: /jekyllconf2019/
     form_engine: cloudcannon
