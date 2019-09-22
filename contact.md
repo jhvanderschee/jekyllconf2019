@@ -3,7 +3,7 @@ layout: page
 forms:
   - to: jhvanderschee@gmail.com
     subject: New submission!
-    redirect: /
+    redirect: /jekyllconf2019/
     form_engine: cloudcannon
     placeholders: false
     fields:
