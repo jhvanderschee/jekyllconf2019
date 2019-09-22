@@ -4,9 +4,9 @@ forms:
   - to: jhvanderschee@gmail.com
     subject: New submission!
     redirect: /
-    form_engine: formspree
+    form_engine: cloudcannon
     placeholders: false
-    fields: 
+    fields:
       - name: name
         input_type: text
         placeholder: Name
@@ -36,5 +36,7 @@ forms:
         placeholder: Submit form
         required: true
 ---
-  <h1>test</h1>
-  test2
+
+# test
+
+test2
