@@ -2,6 +2,6 @@
 layout: page
 ---
 
-# Welcome
+# About
 
 Welcome to this first page.
