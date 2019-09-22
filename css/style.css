@@ -1,2 +1,2 @@
 body > .container > .row > * {padding-top: 30px;}
-#footer {padding-top: 30px; font-style: italic;}
+#footer {padding-top: 30px; font-style: italic; opacity: 0.5;}
