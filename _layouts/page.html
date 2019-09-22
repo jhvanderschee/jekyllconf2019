@@ -5,16 +5,16 @@
   <script src="https://stackpath.bootstrapcdn.com/bootlint/0.16.6/bootlint.min.js" integrity="sha384-ZwqoV50fe3lmAp0JfEykqDFq9dAC8vQP1lEuvdNIyVVWMcdE7oRYs7YcjnhS2Vnd" crossorigin="anonymous"></script>
   </head>
 <body>
-<div class="container">
   {% include header.html %}
-  <div class="row" style="margin-top: 30px; margin-bottom: 40px;">
-    <div class="col-md-8">
-      {{ content }}
-      {% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
+  <div class="container">
+    <div class="row" style="margin-top: 30px; margin-bottom: 40px;">
+      <div class="col-md-8">
+        {{ content }}
+        {% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
+      </div>
+      <div class="col-md-4">{% include sidebar.html %}</div>
     </div>
-    <div class="col-md-4">{% include sidebar.html %}</div>
-  </div>
-  {% include footer.html %}
-<div>
+    {% include footer.html %}
+  <div>
 </body>
 </html>
