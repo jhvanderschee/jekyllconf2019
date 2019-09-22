@@ -15,14 +15,6 @@ forms:
         input_type: email
         placeholder: Email address
         required: true
-      - name: sex
-        input_type: radio
-        placeholder: male
-        required: true
-      - name: sex
-        input_type: radio
-        placeholder: female
-        required: true
       - name: message
         input_type: textarea
         placeholder: Message
