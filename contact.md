@@ -39,6 +39,6 @@ forms:
 
 # Contact
 
-Lorem ipsum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed rhoncus ipsum. Proin rutrum orci eu diam elementum maximus. Nulla rhoncus iaculis ultricies. Donec dictum id urna sit amet facilisis.
 
 &nbsp;
