@@ -37,6 +37,6 @@ forms:
         required: true
 ---
 
-# test
+# Contact
 
-test2
+Lorem ipsum.
